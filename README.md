@@ -3,8 +3,8 @@ Building a model that predicts/classifies whether a website is a Phishing websit
 
 ## Approach ::
 The selected approach is Random Forest Classifier because:
-1. It has the highest accuracy
-2. It has the Lowest error rate
+1. It has the highest accuracy (97.357724)
+2. It has the Lowest error rate (2.642276)
 3. It is a bagging(parallel) ensemble technique
 4. It is useful for determining feature importance easily
 
